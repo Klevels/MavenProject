@@ -13,4 +13,6 @@ public class Demo1 {
 			System.out.println("ÄãÔÚ£¬¸ÉÊ²Ã´");
 	}
 	
+	
+	
 }	
