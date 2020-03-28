@@ -5,6 +5,6 @@ public class Demo1 {
 		
 		public void test() {
 		
-			System.out.println("这波啊，这波是");
+			System.out.println("你在，干什么");
 		}
 }
